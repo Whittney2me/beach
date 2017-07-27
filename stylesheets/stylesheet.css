@@ -137,31 +137,30 @@ nav ul a:hover {
 .decorative {
     text-align: center;
 }
-.decorative-top:before {
-    left: 12%;
-    width: 75%;
+.decoration-top {
+  width: 95%;
+height: 4px;
+margin: auto;
+background: #D1202E;
 }
-.decorative:before {
-    position: absolute;
-    top: 295px;
-    content: " ";
-    height: 4px;
-    margin: auto;
-    background: #D1202E;
+.decoration-top2 {
+  width: 90%;
+height: 4px;
+margin: 2px auto;
+background: #D1202E;
 }
-.decorative-top:after{
-    left: 13%;
-    width: 73%;
+.decoration-bottom {
+  width: 90%;
+height: 4px;
+margin: auto;
+background: #D1202E;
 }
-.decorative:after {
-    position: absolute;
-    top: 301px;
-    content: " ";
-    height: 4px;
-    margin: auto;
-    background: #D1202E;
+.decoration-bottom2 {
+  width: 95%;
+height: 4px;
+margin: 2px auto;
+background: #D1202E;
 }
-
 /*-- Page Content --*/
 .content {
   margin: 25px;
@@ -174,13 +173,13 @@ nav ul a:hover {
   width: 95%;
   margin: auto;
 }
-
 /*-- Logo Thumbnail --*/
 .thumbnail {
     width: 90%;
     height: 100%;
-    margin: 45% auto;
+    margin: 5% auto;
   }
 .thumbnail img {
     vertical-align: middle;
 }
+/*-- Footer --*/
