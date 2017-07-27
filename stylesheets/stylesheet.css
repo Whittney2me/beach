@@ -183,3 +183,26 @@ background: #D1202E;
     vertical-align: middle;
 }
 /*-- Footer --*/
+footer {
+  font-family: 'Ubuntu';
+  font-weight: 300;
+}
+footer a {
+  margin: 10px 50px;
+  color: #10467E;
+  font-size: 16px;
+}
+footer a:hover {
+  text-decoration: none;
+  color: #428BCA;
+}
+.footer {
+  text-align: center;
+  margin: 20px auto;
+}
+.copyright {
+  font-size: 10px;
+  color: #CCC;
+  text-align: right;
+  margin-bottom: 5px;
+}
