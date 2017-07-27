@@ -109,6 +109,9 @@ nav ul a:hover {
   top: 0;
 }
 /*-- Logo --*/
+.logo {
+  margin: 25px auto;
+}
 .logo img {
   height: 100%;
   width: 145px;
@@ -116,7 +119,7 @@ nav ul a:hover {
 }
 .link-home {
   font-family: 'Roboto Slab';
-  font-size: 72px;
+  font-size: 7rem;
   color: #10477E;
   text-decoration: none;
 }
