@@ -1,0 +1,20 @@
+/*--Beach Babies, LLC 2017--*/
+
+/*--Color Scheme----
+Dark Blue - #10467E - rgb(16,70,126);
+Light Blue - #428BCA - rgb(66,139,202);
+Red - #D1202E - rgb(209,32,46);
+Black - #333 - rgb();
+Dark Gray - #555 - rgb();
+Light Gray - #CCC - rgb();
+White - #FFF - rgb();
+-------------------------------------*/
+
+body {
+  background-image: url("https://source.unsplash.com/PqpKqJLoAxU");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  z-index: -1;
+}
